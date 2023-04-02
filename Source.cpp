@@ -1,3 +1,5 @@
+// Привіт, це мій перший міні проект, гра "хрестики-нулики"
+
 #include <iostream>
 #include <cstdlib>
 #include <Windows.h>
